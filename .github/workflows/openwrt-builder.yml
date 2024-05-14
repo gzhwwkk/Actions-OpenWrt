@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: 竞斗云
+name: r619ac
 
 on:
   repository_dispatch:
