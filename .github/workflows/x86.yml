@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: r619
+name: x86
 
 on:
   repository_dispatch:
